@@ -3,7 +3,7 @@ require 'formula'
 class GitGerrit < Formula
   url 'https://github.com/Ymbra/git-gerrit/tarball/v0.4.0'
   homepage 'https://github.com/Ymbra/git-gerrit'
-  md5 '3289ad86d22c3422701361a639d67573'
+  md5 'f0bb311eeebdb5d35860a884147239d9'
 
   def install
     # install scripts in bin.
